@@ -1,0 +1,34 @@
+div.title-space{
+    height: 200px;
+}
+
+.currency-box{
+    height: 200px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table-class{
+    border-collapse: separate;
+    border-spacing: 15px 15px;
+    
+}
+.table-cell{
+    height: 100px;
+    width: 150px;
+    background-color:aliceblue;
+    border: 1px white;
+}
+
+.cell-link{
+    text-decoration: none;
+}
+
+
+td {
+    text-align: center;
+    
+  }
+
+
